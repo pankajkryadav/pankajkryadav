@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Xlrsec — an Ethical Hacker, Security Researcher, and Bug Bounty Hunter.<br><br>🔍 I specialize in identifying and exploiting vulnerabilities to secure web applications, networks, and mobile platforms. With a passion for cybersecurity, I constantly explore the latest techniques in offensive and defensive security, from advanced penetration testing to automating bug bounty processes.<br><br>💡 I'm actively involved in various bug bounty programs, leveraging my knowledge of OWASP Top 10, SANS 25, and beyond to hunt for critical security flaws and help organizations enhance their security posture.<br><br>🚀 Always eager to collaborate, learn, and share insights with the cybersecurity community. Feel free to connect with me, explore my repositories, or reach out to discuss anything related to ethical hacking, security research, or bug bounties!
+Hi, I'm Xlrsec — an Ethical Hacker, Security Researcher
 
 
 ## 🌐 Socials:
