@@ -16,7 +16,7 @@
 
 # 💫 About Me: [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xlrsec)
 ![Alt Text](https://media1.tenor.com/m/k3BNIDqMr6QAAAAC/hacking-hacker.gif)
-### Hi, I'm Xlrsec — an Ethical Hacker, Security Researcher
+### Hi, I'm Xlrsec — An Ethical Hacker and Security Researcher
 
 # :)
 
