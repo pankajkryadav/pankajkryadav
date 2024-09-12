@@ -14,10 +14,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pankajkryadav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
+# 💫 About Me: [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xlrsec)
 ### Hi, I'm Xlrsec — an Ethical Hacker, Security Researcher
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xlrsec) 
 
 # :)
